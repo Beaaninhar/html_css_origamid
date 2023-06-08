@@ -1,0 +1,25 @@
+#intro {
+  color: maroon;
+}
+
+.bike {
+  color: green;
+}
+
+.carro {
+  color: gray;
+}
+
+.bike,
+.carro {
+  background-color: #cdcbf8;
+}
+
+.azul {
+  color: red;
+}
+
+.grande {
+  font-size: 16px;
+  background-color: none;
+}
